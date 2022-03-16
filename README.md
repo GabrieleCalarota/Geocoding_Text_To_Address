@@ -1,6 +1,6 @@
 ## Scope
 
-Could you please write a program in Python that will query external API to translate free text formatted
+A program in Python that will query external API to translate free text formatted
 address to structured address.
 For example: https://maps.googleapis.com/maps/api/geocode/json)
 Or any other public API can also be used if will provide required features
